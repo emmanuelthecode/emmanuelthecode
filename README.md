@@ -47,6 +47,8 @@ All three reach the known optima; SA was by far the most consistent.
 
 ### Other projects
 
+- 🔬 [**HEp-2 Cell Edge Detection**](https://github.com/emmanuelthecode/hep2-cell-edge-detection):
+  Sobel, Prewitt, LoG and Canny on fluorescence cell images, scored against ground truth with boundary F1, plus Hough line detection
 - 🧬 [**MAXSAT Evolutionary Solver**](https://github.com/emmanuelthecode/maxsat-evolutionary-solver):
   time-budgeted GA for maximum satisfiability, Dockerised, with a 100-repetition parameter study
 - 🔥 [**Concurrent Firewall Server in C**](https://github.com/emmanuelthecode/c-firewall-server):
@@ -64,6 +66,7 @@ regression testing and responsible-AI validation.
 
 **Languages:** Python, SQL, Java, C  
 **Machine Learning & Data:** pandas, NumPy, scikit-learn, Matplotlib  
+**Computer Vision:** OpenCV, scikit-image  
 **Optimisation:** evolutionary algorithms, simulated annealing, constraint handling  
 **Systems:** POSIX sockets, pthreads, Docker, Valgrind  
 **Databases:** PostgreSQL  
